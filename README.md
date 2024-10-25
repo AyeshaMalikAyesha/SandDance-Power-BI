@@ -7,7 +7,7 @@ The dataset used in creating this chart consists of two tables:
 2. Sessions (city,pages/views, sessions,sources etc)
 
 
-[img](https://github.com/AyeshaMalikAyesha/
+![img](https://github.com/AyeshaMalikAyesha/SandDance-Power-BI/blob/main/dashboard img.png?raw=true)
 
 
 
